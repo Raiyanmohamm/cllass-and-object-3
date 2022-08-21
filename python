@@ -1,0 +1,24 @@
+#python oop
+class students:
+    
+    def _init_(self,name,gender,city,DOB,phoneno):
+        self.name= name
+        self.gender=gender
+        self.city=city
+        self.DOB.DOB
+        self.phoneno=phoneno
+        
+    def address(self):
+        addr=f"Name : {self.name}\nGender : {self.gender}\ncity : {self.city}\nDOB : {self.DOB}\nPhoneno : {self. pheneno}"
+        return addr
+        
+    def age(self)
+        current_year = 2022
+        return current_year -self.DOB
+        
+stu1=Student("Goetham","Male","Thirupattur", 2003,9629240217)
+
+print(stu1.address()
+print("Age:",stu2.age())
+        
+    
